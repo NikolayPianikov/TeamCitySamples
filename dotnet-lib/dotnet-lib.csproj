@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.2;net48</TargetFrameworks>
+    <RootNamespace>dotnet_lib</RootNamespace>
+    <Version>$(version)</Version>
+  </PropertyGroup>
+
+</Project>

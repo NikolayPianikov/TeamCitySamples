@@ -4,6 +4,7 @@
     <TargetFrameworks>netcoreapp2.2;net48</TargetFrameworks>
     <RootNamespace>dotnet_lib</RootNamespace>
     <Version>$(version)</Version>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
 
 </Project>

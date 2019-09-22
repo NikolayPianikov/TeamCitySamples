@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netcoreapp2.2;net48</TargetFrameworks>
+    <TargetFrameworks>netcoreapp2.1;net48</TargetFrameworks>
     <RootNamespace>dotnet_lib</RootNamespace>
     <Version>$(version)</Version>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
